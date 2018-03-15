@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "http://159.89.161.164";
+$username = "recipe";
+$password = "123456";
 $db = "de_recipe" ;
 
 // Create connection
